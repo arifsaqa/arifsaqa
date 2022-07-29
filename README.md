@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifsaqa
-- 👀 I’m interested in android and rest api development
-- 🌱 I’m currently learning kotlin android
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
