@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifsaqa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning <img src="https://angular.io/assets/images/logos/angular/angular.svg" with=20 height=20>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
