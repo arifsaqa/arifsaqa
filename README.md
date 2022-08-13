@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifsaqa
+- 👋 Hi, I’m Syamsul Arifin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning <img src="https://angular.io/assets/images/logos/angular/angular.svg" with=20 height=20>
 - 💞️ I’m looking to collaborate on ...
