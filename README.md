@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syamsul Arifin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning <img src="https://angular.io/assets/images/logos/angular/angular.svg" with=20 height=20> & <img src="https://go.dev/images/go-logo-white.svg" with=20 height=20>
+- 🌱 I’m currently learning <img src="https://angular.io/assets/images/logos/angular/angular.svg" width=20 height=20> and <img src="https://go.dev/images/go-logo-white.svg" width=30 height=20>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
